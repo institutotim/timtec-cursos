@@ -1,5 +1,15 @@
 ## PT-BR
 
+    TIMTec Cursos
+    Copyright (C) <2014> <Instituto TIM>
+
+    This content is a free cultural e-learning material: you can redistribute it 
+    and/or modify it under the terms of the Creative Commons CC-BY 4.0 as
+    published by the Creative Commons Initiative at https://creativecommons.org/licenses/by/4.0/
+    
+--- 
+    
+
 ### Introdução
 Este é o repositório de cursos do projeto [TIM Tec](timtec.com.br). Se você usa a ferramenta [Mooc TIM Tec](https://github.com/institutotim/timtec) você poderá usar os cursos aqui presentes em sua instalação. Abaixo algumas instruções de importação. 
 
